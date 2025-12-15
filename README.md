@@ -16,14 +16,18 @@ Upon reaching the alarm time, it triggers a critical system notification and pla
 
 ### Installation
 
-#### Cinnamon Spices
+#### Step 1 : Clone the repo 
+```
+cd ~/.local/share/cinnamon/applets/
+git clone https://github.com/surya-tn99/cinnamon-alarm-applet
+```
+
+#### Step 2 : Cinnamon Spices
 
 1.  Open your **System Settings** in Cinnamon.
 2.  Navigate to the **Applets** module.
-3.  Click the **"Download"** tab.
-4.  Search for **"Simple Alarm Applet"**.
-5.  Select it and click **"Install"**.
-6.  Go back to the **"Manage"** tab, select the Applet, and click **"Add to Panel"**.
+3.  Click the **"Manage"** tab.
+4.  search the Applet **"Alarm Applet"** , and click **"Add to Panel"**.
 
 
 ### Technical Details
