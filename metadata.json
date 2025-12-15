@@ -1,7 +1,7 @@
 {
-  "uuid": "alarm@surya",
+  "uuid": "cinnamon-alarm-applet@surya",
   "name": "Alarm Applet",
-  "description": "Set Alarm ",
+  "description": "Set Your Alarm ",
   "version": 1,
   "max-instances": 1,
   "author": "surya",
