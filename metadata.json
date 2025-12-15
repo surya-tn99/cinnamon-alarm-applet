@@ -1,0 +1,9 @@
+{
+  "uuid": "alarm@surya",
+  "name": "Alarm Applet",
+  "description": "Set Alarm ",
+  "version": 1,
+  "max-instances": 1,
+  "author": "surya",
+  "last-edited": "2025-12-15"
+}
